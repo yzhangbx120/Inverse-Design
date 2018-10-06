@@ -18,6 +18,10 @@ acc_pred_by_vae_100_original_form.dat: inverse design result for testing data
 
 num_acc_pred_data.dat: the final shapes after surface diffusion with the prediced initial shapes for testing data
 
-Inverse design: python main.py
+# Usage
 
 Calculate accuracy and design results: python main_post_accuracy.py
+
+Inverse design: python main.py
+
+
